@@ -9,7 +9,7 @@ $$ A_C = [ HCO_3^- ] + [ CO_3^{2-} ] $$
 
 
 ## Model 1 A<sub>C</sub>(pH, DIC,T)
-
+This model takes 
 
 
 
