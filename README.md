@@ -8,8 +8,9 @@ The definition for A<sub>C</sub> that is taken in both models is:
 $$ A_C = [ HCO_3^- ] + [ CO_3^{2-} ] $$ 
 
 
-## Model 1 A<sub>C</sub>(pH, DIC,T)
-This model takes 
+## Model 1 A<sub>C</sub>(pH, DIC,T, EC)
+This model takes the measured pH, DIC, T and EC of a water sample into account.
+
 
 
 
